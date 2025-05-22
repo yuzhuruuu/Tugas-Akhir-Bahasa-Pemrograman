@@ -18,14 +18,6 @@
 
 ---
 
-## 🖥️ Tampilan Aplikasi
-
-<p align="center">
-  <img src="screenshots/menu_screen.png" width="700"/>
-</p>
-
----
-
 ## ⚙️ Cara Menjalankan Aplikasi
 
 ### 1. **Clone repositori ini**
